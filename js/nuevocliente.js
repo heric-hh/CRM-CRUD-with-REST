@@ -1,4 +1,4 @@
-import { showAlert } from "./funciones.js";
+import { showAlert , validate } from "./funciones.js";
 import { newClient } from "./API.js";
 
 
@@ -28,10 +28,5 @@ import { newClient } from "./API.js";
         newClient( client );
 
     } 
-
-    function validate( obj ) {
-        return !Object.values( obj ).every( input => input !== "" );
-    }
-
 
 })();

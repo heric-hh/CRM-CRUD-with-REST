@@ -1,18 +1,11 @@
 {
   "clientes": [
     {
-      "id": "e342",
-      "name": "Eric",
-      "email": "eric@mail.com",
-      "phone": "123456",
-      "enterprise": "Code"
-    },
-    {
-      "id": "733d",
       "name": "Haruka",
       "email": "haruka@mail.com",
       "phone": "123456",
-      "enterprise": "Code"
+      "enterprise": "CodeRuka",
+      "id": "733"
     }
   ]
 }
